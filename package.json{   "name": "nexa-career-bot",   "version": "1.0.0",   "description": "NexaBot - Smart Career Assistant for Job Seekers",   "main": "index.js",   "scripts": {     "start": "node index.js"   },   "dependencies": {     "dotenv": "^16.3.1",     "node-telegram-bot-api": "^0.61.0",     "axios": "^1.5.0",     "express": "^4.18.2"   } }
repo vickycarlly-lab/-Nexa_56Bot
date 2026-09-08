@@ -1,0 +1,15 @@
+{
+  "name": "nexa-career-bot",
+  "version": "1.0.0",
+  "description": "NexaBot - Smart Career Assistant for Job Seekers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
+  }
+}
